@@ -1,3 +1,2 @@
 # Algorithms
-
-# Algorithmic helpers
+Algorithmic helpers
